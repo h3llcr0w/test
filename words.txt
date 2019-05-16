@@ -1,5 +1,1 @@
-wiki
-wikipedia
-fleming
-turing
-lenz
+wiki,wikipedia,fleming,turing,lenz
