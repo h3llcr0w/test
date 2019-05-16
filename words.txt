@@ -1,1 +1,1 @@
-wiki,wikipedia,fleming,turing,lenz
+wikipedia,fleming,turing,lenz
